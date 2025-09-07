@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">🛠️ Technologies I work with:</h3>
+<h2 align="left">🛠️ Technologies I work with:</h2>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">📫 Contact me:</h3>
+<h2 align="left">📫 Contact me:</h2>
 
 ###
 
