@@ -2,15 +2,17 @@
 
 ###
 
-<p align="left">A software developer with  years of experience building scalable and high-performance web applications. I specialize in web development using MERN STACK and working daily with tools that enhance system reliability and performance.<br><br>🎓 I'm currently studying Systems Engineering at the National Technological University (UTN).<br><br>🎯 I enjoy optimizing performance, designing scalable systems, and automating workflows that make development more efficient.<br><br>⚙️ I'm passionate about backend and frontend development and system architecture. My main stack includes:<br><br>MongoDB, Express, React & Node.js (MERN) for building modern and scalable full-stack applications<br><br>Docker for containerization and reproducible environments<br><br>Visual Studio Code for efficient development and project management<br><br>Vite & TypeScript for fast, type-safe frontend development</p>
+<p align="left">A software developer with  years of experience building scalable and high-performance web applications. I specialize in web development using MERN STACK  and working daily with tools that enhance system reliability and performance.<br><br>🎓 I'm currently studying Systems Engineering at the National Technological University (UTN).<br><br>🎯 I enjoy optimizing performance, designing scalable systems, and automating workflows that make development more efficient.<br><br>⚙️ I'm passionate about backend development and system architecture. My main stack includes:<br><br>MongoDB, Express, React & Node.js (MERN) for building modern and scalable full-stack applications<br><br>Docker for containerization and reproducible environments<br><br>Visual Studio Code for efficient development and project management<br><br>Vite & TypeScript for fast, type-safe frontend development</p>
 
 ###
 
-<h2 align="left">🛠️ Technologies I work with:</h2>
+<h3 align="left">🛠️ Technologies I work with:</h3>
 
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
@@ -23,12 +25,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
 ###
 
-<h2 align="left">📫 Contact me:</h2>
+<h3 align="left">📫 Contact me:</h3>
 
 ###
 
